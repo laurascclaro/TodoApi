@@ -1,0 +1,14 @@
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+H:\Laura Claro\5º SEMESTRE\PSA\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
